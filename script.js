@@ -50,7 +50,7 @@ let signup = document.querySelector(".fod");
 
 setTimeout(() => {
   signup.style.display = "flex";
-}, 3000);
+}, 8000);
 
 let close = document.querySelector("#bud");
 close.addEventListener("click", () => {
